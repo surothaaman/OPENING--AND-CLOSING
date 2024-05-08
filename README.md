@@ -1,5 +1,5 @@
 # EX.NO:10 OPENING--AND-CLOSING
-# DATE:
+
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 ## Software Required
